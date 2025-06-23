@@ -6,6 +6,8 @@
 
 ## 線上預覽
 
+👉 [點我直接玩！GitHub Pages 版](https://peggy110.github.io/game6/)
+
 本地啟動後，請於瀏覽器開啟：
 [http://localhost:5173](http://localhost:5173)
 
